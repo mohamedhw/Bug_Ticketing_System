@@ -1,0 +1,4 @@
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System\wwwroot\uploads\5283ecb5-613c-4913-8087-9f924af270da_test.txt
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System\wwwroot\uploads\22ae9c28-27ee-4201-b698-aa64e7594370_test.txt
+wwwroot\uploads\22ae9c28-27ee-4201-b698-aa64e7594370_test.txt
+wwwroot\uploads\5283ecb5-613c-4913-8087-9f924af270da_test.txt

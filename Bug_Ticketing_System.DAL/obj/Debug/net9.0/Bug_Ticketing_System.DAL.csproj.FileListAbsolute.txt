@@ -1,0 +1,14 @@
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.DAL\bin\Debug\net9.0\Bug_Ticketing_System.DAL.deps.json
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.DAL\bin\Debug\net9.0\Bug_Ticketing_System.DAL.runtimeconfig.json
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.DAL\bin\Debug\net9.0\Bug_Ticketing_System.DAL.dll
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.DAL\bin\Debug\net9.0\Bug_Ticketing_System.DAL.pdb
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.DAL\obj\Debug\net9.0\Bug_Ticketing_System.DAL.csproj.AssemblyReference.cache
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.DAL\obj\Debug\net9.0\Bug_Ticketing_System.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.DAL\obj\Debug\net9.0\Bug_Ticketing_System.DAL.AssemblyInfoInputs.cache
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.DAL\obj\Debug\net9.0\Bug_Ticketing_System.DAL.AssemblyInfo.cs
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.DAL\obj\Debug\net9.0\Bug_Ticketing_System.DAL.csproj.CoreCompileInputs.cache
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.DAL\obj\Debug\net9.0\Bug_Ticketing_System.DAL.dll
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.DAL\obj\Debug\net9.0\refint\Bug_Ticketing_System.DAL.dll
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.DAL\obj\Debug\net9.0\Bug_Ticketing_System.DAL.pdb
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.DAL\obj\Debug\net9.0\Bug_Ticketing_System.DAL.genruntimeconfig.cache
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.DAL\obj\Debug\net9.0\ref\Bug_Ticketing_System.DAL.dll

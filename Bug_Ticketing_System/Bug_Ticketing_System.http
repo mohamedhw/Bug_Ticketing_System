@@ -1,0 +1,99 @@
+@Bug_Ticketing_System_HostAddress = http://localhost:5095
+
+
+###
+POST {{Bug_Ticketing_System_HostAddress}}/api/users/register
+Content-Type: application/json
+{
+    "Username": "testusername23",
+    "Email": "testtes13t@test1.com",
+    "password": "SecureP@ssw0rd!",
+    "Roles": ["Manager"]
+}
+
+###
+POST {{Bug_Ticketing_System_HostAddress}}/api/users/login
+Content-Type: application/json
+{
+    "email": "testtes13t@test1.com",
+    "password": "SecureP@ssw0rd!"
+}
+
+
+
+
+###
+POST {{Bug_Ticketing_System_HostAddress}}/api/projectS
+Content-Type: application/json
+{
+    "ProjectName": "TEST Projectttt",
+    "Description": "This is a test project",
+    "StartDate": "2023-10-01",
+    "EndDate": "2023-12-31",
+    "ManagerId": "F48AB51A-DBFF-441C-978F-08DD84CA1A76"
+}
+
+###
+GET {{Bug_Ticketing_System_HostAddress}}/api/projects
+Accept: application/json
+
+###
+GET {{Bug_Ticketing_System_HostAddress}}/api/projects/34CF13AC-D055-4B50-B6BE-08DD8335014D
+Accept: application/json
+
+
+
+###
+POST {{Bug_Ticketing_System_HostAddress}}/api/bugs
+Content-Type: application/json
+{
+    "Title": "Test Project",
+    "Description": "This is a test project",
+    "Priority":"High",
+    "ProjectId": "34CF13AC-D055-4B50-B6BE-08DD8335014D",
+    "ReporterId": "81712CAE-B6E5-472F-94F9-08DD827014C2"
+}
+
+
+
+###
+GET {{Bug_Ticketing_System_HostAddress}}/api/bugs
+Accept: application/json
+
+###
+GET {{Bug_Ticketing_System_HostAddress}}/api/bugs/a914efca-d506-418c-282a-08dd8361c3c8
+Accept: application/json
+
+
+
+###
+POST {{Bug_Ticketing_System_HostAddress}}/api/bugs/A914EFCA-D506-418C-282A-08DD8361C3C8/assignees
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1NGNlMTUwNy02OWQyLTRiNDUtZmQ3Yi0wOGRkODRmMmIzYmUiLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6IjU0Y2UxNTA3LTY5ZDItNGI0NS1mZDdiLTA4ZGQ4NGYyYjNiZSIsImVtYWlsIjoidGVzdHRlczEzdEB0ZXN0MS5jb20iLCJqdGkiOiI4MjU0NDZlNi0zYjUyLTRlMzgtODhjYy05YmNiYWQ1Y2ZkY2MiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJNYW5hZ2VyIn0.yqXg_5Qavc8f_GPTG2seRNXIXTFaCqoBq4G-Hx__chU
+{
+    "UserId": "81712CAE-B6E5-472F-94F9-08DD827014C2"
+}
+
+###
+DELETE {{Bug_Ticketing_System_HostAddress}}/api/bugs/A914EFCA-D506-418C-282A-08DD8361C3C8/assignees/81712CAE-B6E5-472F-94F9-08DD827014C2
+Content-Type: application/json
+
+
+
+
+
+
+###
+POST {{Bug_Ticketing_System_HostAddress}}/api/bugs/A914EFCA-D506-418C-282A-08DD8361C3C8/attachments
+Content-Type: application/json
+{
+    "File": ./test.txt
+}
+
+###
+GET {{Bug_Ticketing_System_HostAddress}}/api/bugs/:id/attachments
+Accept: application/json
+
+###
+DELETE {{Bug_Ticketing_System_HostAddress}}/api/bugs/:id/attachments/:attachmentId
+Content-Type: application/json

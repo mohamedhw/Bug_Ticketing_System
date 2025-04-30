@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "+i2+IvcphhObtuiutkqoq9L3BnwS7vYlZXz9ygxDHcM=",
+  "Source": "Bug_Ticketing_System",
+  "BasePath": "_content/Bug_Ticketing_System",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Bug_Ticketing_System\\wwwroot",
+      "Source": "Bug_Ticketing_System",
+      "ContentRoot": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\wwwroot\\",
+      "BasePath": "_content/Bug_Ticketing_System",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\obj\\Debug\\net9.0\\compressed\\hw6pb1ha4q-wbyr9yz3w4.gz",
+      "SourceId": "Bug_Ticketing_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Bug_Ticketing_System",
+      "RelativePath": "uploads/5283ecb5-613c-4913-8087-9f924af270da_test#[.{fingerprint=wbyr9yz3w4}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\wwwroot\\uploads\\5283ecb5-613c-4913-8087-9f924af270da_test.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "t72bwb136c",
+      "Integrity": "ByQPcxU0mmyskDj8tM7WvIq/sJPBwyMTm0THZX13k28=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\wwwroot\\uploads\\5283ecb5-613c-4913-8087-9f924af270da_test.txt"
+    },
+    {
+      "Identity": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\obj\\Debug\\net9.0\\compressed\\kgjexzvig6-wbyr9yz3w4.gz",
+      "SourceId": "Bug_Ticketing_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Bug_Ticketing_System",
+      "RelativePath": "uploads/22ae9c28-27ee-4201-b698-aa64e7594370_test#[.{fingerprint=wbyr9yz3w4}]?.txt.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\wwwroot\\uploads\\22ae9c28-27ee-4201-b698-aa64e7594370_test.txt",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "t72bwb136c",
+      "Integrity": "ByQPcxU0mmyskDj8tM7WvIq/sJPBwyMTm0THZX13k28=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\wwwroot\\uploads\\22ae9c28-27ee-4201-b698-aa64e7594370_test.txt"
+    },
+    {
+      "Identity": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\wwwroot\\uploads\\22ae9c28-27ee-4201-b698-aa64e7594370_test.txt",
+      "SourceId": "Bug_Ticketing_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\wwwroot\\",
+      "BasePath": "_content/Bug_Ticketing_System",
+      "RelativePath": "uploads/22ae9c28-27ee-4201-b698-aa64e7594370_test#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wbyr9yz3w4",
+      "Integrity": "dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\22ae9c28-27ee-4201-b698-aa64e7594370_test.txt"
+    },
+    {
+      "Identity": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\wwwroot\\uploads\\5283ecb5-613c-4913-8087-9f924af270da_test.txt",
+      "SourceId": "Bug_Ticketing_System",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\wwwroot\\",
+      "BasePath": "_content/Bug_Ticketing_System",
+      "RelativePath": "uploads/5283ecb5-613c-4913-8087-9f924af270da_test#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wbyr9yz3w4",
+      "Integrity": "dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\5283ecb5-613c-4913-8087-9f924af270da_test.txt"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/22ae9c28-27ee-4201-b698-aa64e7594370_test.txt",
+      "AssetFile": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\obj\\Debug\\net9.0\\compressed\\kgjexzvig6-wbyr9yz3w4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.023809523810"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ByQPcxU0mmyskDj8tM7WvIq/sJPBwyMTm0THZX13k28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 12:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/22ae9c28-27ee-4201-b698-aa64e7594370_test.txt",
+      "AssetFile": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\wwwroot\\uploads\\22ae9c28-27ee-4201-b698-aa64e7594370_test.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 12:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/22ae9c28-27ee-4201-b698-aa64e7594370_test.txt.gz",
+      "AssetFile": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\obj\\Debug\\net9.0\\compressed\\kgjexzvig6-wbyr9yz3w4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ByQPcxU0mmyskDj8tM7WvIq/sJPBwyMTm0THZX13k28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 12:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ByQPcxU0mmyskDj8tM7WvIq/sJPBwyMTm0THZX13k28="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/22ae9c28-27ee-4201-b698-aa64e7594370_test.wbyr9yz3w4.txt",
+      "AssetFile": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\obj\\Debug\\net9.0\\compressed\\kgjexzvig6-wbyr9yz3w4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.023809523810"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ByQPcxU0mmyskDj8tM7WvIq/sJPBwyMTm0THZX13k28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 12:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wbyr9yz3w4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/22ae9c28-27ee-4201-b698-aa64e7594370_test.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/22ae9c28-27ee-4201-b698-aa64e7594370_test.wbyr9yz3w4.txt",
+      "AssetFile": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\wwwroot\\uploads\\22ae9c28-27ee-4201-b698-aa64e7594370_test.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 12:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wbyr9yz3w4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/22ae9c28-27ee-4201-b698-aa64e7594370_test.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/22ae9c28-27ee-4201-b698-aa64e7594370_test.wbyr9yz3w4.txt.gz",
+      "AssetFile": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\obj\\Debug\\net9.0\\compressed\\kgjexzvig6-wbyr9yz3w4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ByQPcxU0mmyskDj8tM7WvIq/sJPBwyMTm0THZX13k28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 12:21:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wbyr9yz3w4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/22ae9c28-27ee-4201-b698-aa64e7594370_test.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ByQPcxU0mmyskDj8tM7WvIq/sJPBwyMTm0THZX13k28="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5283ecb5-613c-4913-8087-9f924af270da_test.txt",
+      "AssetFile": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\obj\\Debug\\net9.0\\compressed\\hw6pb1ha4q-wbyr9yz3w4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.023809523810"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ByQPcxU0mmyskDj8tM7WvIq/sJPBwyMTm0THZX13k28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 10:40:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5283ecb5-613c-4913-8087-9f924af270da_test.txt",
+      "AssetFile": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\wwwroot\\uploads\\5283ecb5-613c-4913-8087-9f924af270da_test.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 10:40:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5283ecb5-613c-4913-8087-9f924af270da_test.txt.gz",
+      "AssetFile": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\obj\\Debug\\net9.0\\compressed\\hw6pb1ha4q-wbyr9yz3w4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ByQPcxU0mmyskDj8tM7WvIq/sJPBwyMTm0THZX13k28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 10:40:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ByQPcxU0mmyskDj8tM7WvIq/sJPBwyMTm0THZX13k28="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5283ecb5-613c-4913-8087-9f924af270da_test.wbyr9yz3w4.txt",
+      "AssetFile": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\obj\\Debug\\net9.0\\compressed\\hw6pb1ha4q-wbyr9yz3w4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.023809523810"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ByQPcxU0mmyskDj8tM7WvIq/sJPBwyMTm0THZX13k28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 10:40:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wbyr9yz3w4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/5283ecb5-613c-4913-8087-9f924af270da_test.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5283ecb5-613c-4913-8087-9f924af270da_test.wbyr9yz3w4.txt",
+      "AssetFile": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\wwwroot\\uploads\\5283ecb5-613c-4913-8087-9f924af270da_test.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 10:40:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wbyr9yz3w4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/5283ecb5-613c-4913-8087-9f924af270da_test.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5283ecb5-613c-4913-8087-9f924af270da_test.wbyr9yz3w4.txt.gz",
+      "AssetFile": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\obj\\Debug\\net9.0\\compressed\\hw6pb1ha4q-wbyr9yz3w4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ByQPcxU0mmyskDj8tM7WvIq/sJPBwyMTm0THZX13k28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 10:40:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wbyr9yz3w4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/5283ecb5-613c-4913-8087-9f924af270da_test.txt.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ByQPcxU0mmyskDj8tM7WvIq/sJPBwyMTm0THZX13k28="
+        }
+      ]
+    }
+  ]
+}

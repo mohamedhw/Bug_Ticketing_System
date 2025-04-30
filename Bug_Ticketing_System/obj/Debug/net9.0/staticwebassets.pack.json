@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\wwwroot\\uploads\\22ae9c28-27ee-4201-b698-aa64e7594370_test.txt",
+      "PackagePath": "staticwebassets\\uploads\\22ae9c28-27ee-4201-b698-aa64e7594370_test.txt"
+    },
+    {
+      "Id": "D:\\ITI\\C#\\ASP\\Final_Project_ASP_API\\Bug_Ticketing_System\\Bug_Ticketing_System\\wwwroot\\uploads\\5283ecb5-613c-4913-8087-9f924af270da_test.txt",
+      "PackagePath": "staticwebassets\\uploads\\5283ecb5-613c-4913-8087-9f924af270da_test.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Bug_Ticketing_System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Bug_Ticketing_System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Bug_Ticketing_System.props",
+      "PackagePath": "build\\Bug_Ticketing_System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Bug_Ticketing_System.props",
+      "PackagePath": "buildMultiTargeting\\Bug_Ticketing_System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Bug_Ticketing_System.props",
+      "PackagePath": "buildTransitive\\Bug_Ticketing_System.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

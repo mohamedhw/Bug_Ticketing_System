@@ -1,0 +1,40 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\22ae9c28-27ee-4201-b698-aa64e7594370_test.txt'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bug_Ticketing_System</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bug_Ticketing_System</BasePath>
+      <RelativePath>uploads/22ae9c28-27ee-4201-b698-aa64e7594370_test.txt</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wbyr9yz3w4</Fingerprint>
+      <Integrity>dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\22ae9c28-27ee-4201-b698-aa64e7594370_test.txt'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\5283ecb5-613c-4913-8087-9f924af270da_test.txt'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Bug_Ticketing_System</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Bug_Ticketing_System</BasePath>
+      <RelativePath>uploads/5283ecb5-613c-4913-8087-9f924af270da_test.txt</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wbyr9yz3w4</Fingerprint>
+      <Integrity>dLjRMbMBFhbb0zFJDYhW9S5BlVJZUJ/AKFmrZrCrPPM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\5283ecb5-613c-4913-8087-9f924af270da_test.txt'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

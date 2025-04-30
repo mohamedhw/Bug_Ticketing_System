@@ -1,0 +1,17 @@
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.BL\bin\Debug\net9.0\Bug_Ticketing_System.BL.deps.json
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.BL\bin\Debug\net9.0\Bug_Ticketing_System.BL.dll
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.BL\bin\Debug\net9.0\Bug_Ticketing_System.BL.pdb
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.BL\obj\Debug\net9.0\Bug_Ticketing_System.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.BL\obj\Debug\net9.0\Bug_Ticketing_System.BL.AssemblyInfoInputs.cache
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.BL\obj\Debug\net9.0\Bug_Ticketing_System.BL.AssemblyInfo.cs
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.BL\obj\Debug\net9.0\Bug_Ticketing_System.BL.csproj.CoreCompileInputs.cache
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.BL\obj\Debug\net9.0\Bug_Ticketing_System.BL.dll
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.BL\obj\Debug\net9.0\refint\Bug_Ticketing_System.BL.dll
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.BL\obj\Debug\net9.0\Bug_Ticketing_System.BL.pdb
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.BL\obj\Debug\net9.0\ref\Bug_Ticketing_System.BL.dll
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.BL\bin\Debug\net9.0\Bug_Ticketing_System.BL.runtimeconfig.json
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.BL\obj\Debug\net9.0\Bug_Ticketing_System.BL.csproj.AssemblyReference.cache
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.BL\obj\Debug\net9.0\Bug_Ticketing_System.BL.genruntimeconfig.cache
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.BL\bin\Debug\net9.0\Bug_Ticketing_System.DAL.dll
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.BL\bin\Debug\net9.0\Bug_Ticketing_System.DAL.pdb
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.BL\obj\Debug\net9.0\Bug_Tick.4053FCC7.Up2Date

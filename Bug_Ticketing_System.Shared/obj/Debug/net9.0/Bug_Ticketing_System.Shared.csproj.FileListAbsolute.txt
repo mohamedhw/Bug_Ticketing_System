@@ -1,0 +1,14 @@
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.Shared\bin\Debug\net9.0\Bug_Ticketing_System.Shared.deps.json
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.Shared\bin\Debug\net9.0\Bug_Ticketing_System.Shared.dll
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.Shared\bin\Debug\net9.0\Bug_Ticketing_System.Shared.pdb
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.Shared\obj\Debug\net9.0\Bug_Ticketing_System.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.Shared\obj\Debug\net9.0\Bug_Ticketing_System.Shared.AssemblyInfoInputs.cache
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.Shared\obj\Debug\net9.0\Bug_Ticketing_System.Shared.AssemblyInfo.cs
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.Shared\obj\Debug\net9.0\Bug_Ticketing_System.Shared.csproj.CoreCompileInputs.cache
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.Shared\obj\Debug\net9.0\Bug_Ticketing_System.Shared.dll
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.Shared\obj\Debug\net9.0\refint\Bug_Ticketing_System.Shared.dll
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.Shared\obj\Debug\net9.0\Bug_Ticketing_System.Shared.pdb
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.Shared\obj\Debug\net9.0\ref\Bug_Ticketing_System.Shared.dll
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.Shared\bin\Debug\net9.0\Bug_Ticketing_System.Shared.runtimeconfig.json
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.Shared\obj\Debug\net9.0\Bug_Ticketing_System.Shared.csproj.AssemblyReference.cache
+D:\ITI\C#\ASP\Final_Project_ASP_API\Bug_Ticketing_System\Bug_Ticketing_System.Shared\obj\Debug\net9.0\Bug_Ticketing_System.Shared.genruntimeconfig.cache
